@@ -9,3 +9,9 @@ def HeyWorld():
     print("Hello, my name is Pranav Ganesh Soma")
 
 HeyWorld()
+
+#This is Sindhuja's Hello World Function
+def HelloWorld():
+    print("Hello, my name is Banda Sindhuja")
+
+HelloWorld()
