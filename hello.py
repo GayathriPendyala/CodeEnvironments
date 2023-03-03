@@ -12,6 +12,6 @@ HeyWorld()
 
 #This is Sindhuja's Hello World Function
 def HelloWorld():
-    print("Hello, my name is Banda Sindhuja")
+    print("Hello, my name is Banka Sindhuja")
 
 HelloWorld()
