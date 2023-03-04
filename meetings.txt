@@ -1,3 +1,91 @@
+--Yuva Sri Vemulapalli--
+
+What you did: 
+Completed Technical Interview Workshop
+Designed the outline and prototype of web app for SE project
+
+What you need to do next: 
+Complete Development environment task
+Start developing web app
+
+What is blocking you: Code collaboration website was down for long time which is taking lot of time to complete the pair programming exercise
+
+--Sindhuja Banka--
+
+What you did: 
+Submitted Technical Interview Workshop Vedio for HW4
+Designed prototype of the web app
+
+What you need to do next: 
+Complete Code metrics
+Start developing web app
+
+What is blocking you: Code collaboration website was down for long time which is taking lot of time to complete the pair programming exercise
+
+--Pranav Ganesh Soma--
+
+What you did: 
+Started implementation of project for WORKWELL application
+Completed Technical interview workshop
+Designed UI of Website
+
+What you need to do next: 
+Start developing web app 
+Finish the Code metrics Exercise
+What is blocking you: Code collaboration website was down for long time which is taking lot of time to complete the pair programming exercise
+
+--Gayathri Pendyala--
+
+What you did: 
+Submitted Technical Interview Workshop Vedio for HW4
+Designed prototype of the web app
+
+What you need to do next: 
+Complete Code metrics
+Start developing web app
+
+What is blocking you: Code collaboration website was down for long time which is taking lot of time to complete the pair programming exercise
+
+--Chandra Lekha--
+
+What you did: 
+Started implementation of project for WORKWELL application
+Completed Technical interview workshop
+Designed UI of Website
+
+What you need to do next: 
+Start developing web app 
+Finish the Code metrics Exercise
+What is blocking you: Code collaboration website was down for long time which is taking lot of time to complete the pair programming exercise
+
+
+---AGENDA---
+Are daily Standup Meetings Useful??
+
+---MINUTES OF MEETING---
+According to the paper given, The perceived worth of daily stand-ups is examined from the viewpoint of software developers in "A Survey of Developers in Software Teams". 185 developers from 94 different software teams who were part of the study's poll were asked about their experiences with daily stand-ups.
+
+
+The majority of the developers polled for the research (67%) said that daily stand-ups were helpful for their team, while 19% thought they were of little or no use, and 14% were neutral.
+ 
+The most frequently mentioned advantages by the developers were: 
+enhanced collaboration and communication
+better project progress visibility
+detection of possible problems or barriers
+
+The research did note a few potential disadvantages of daily stand-ups:
+If they were poorly structured or if team members were not completely engaged, they could turn into a time-consuming and disruptive process.
+Some developers mentioned feeling under pressure to share their accomplishments and progress, which could lead to unneeded stress and lessen the efficacy of the stand-up.
+
+Few key aspects discussed regarding StandUp Meetings:
+
+Team size: For bigger teams, where coordination and communication can be more difficult, daily stand-ups can be especially helpful. Smaller teams might discover that other methods, like routine check-ins or unofficial talks, enable them to communicate effectively.
+
+Project complexity: For complex projects where team members may be working on numerous tasks at once, daily stand-ups can be especially helpful. Team members can remain informed and work together by regularly exchanging progress updates and identifying potential obstacles.
+
+Team dynamics: The dynamics of the team can affect the effectiveness of everyday stand-ups. Daily stand-ups can be an effective tool for fostering accountability and collaboration if team members are willing to share progress updates and talk about possible problems. However, it might be more beneficial to look into alternative communication and collaboration techniques if team members are unwilling to share or believe the stand-up is a burden.
+
+In conclusion, daily stand-ups can be a useful tool for software development teams, but how well they work relies on a number of variables. Teams can gain the advantages of better communication, collaboration, and project success by taking the needs and preferences of the team into careful consideration and implementing the stand-up in a structured and supportive way.
 This is Yuva's Role in meeting
 In previous activity I acted as a Team Leader during which I led the team to an active discussion on the ideas and how the ideas can work and how we can improve upon them along with providing feedback to them and providing scope for further discussions. 
 This is Pranav's Role in meeting
