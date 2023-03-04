@@ -4,7 +4,6 @@ This is Pranav's Role in meeting
 In the previous activity, I worked as a moderator for the meeting in which I let all the people express their opinions and talk about their ideas and get feedback from others as well and tried to prevent overlap and cross talk to the maximum extent. 
 This is Sindhuja's Role in meeting
 In the previous activity, I played the role of a Scrum master where I have made a discussion on the project and assigned the roles to all the team members so that the sprint can be started by working together and complete the tasks.
-This is Chandralekha's role in meeting
-In the previous activity, I played the role of a database administrator where I discussed with the team the recent database activities done in the previous sprint and what activities are due next sprint.
-
+This is Gayathri's Role in meeting
+In the previous activity, I played the role of lead developer where i introducedthe development ideas and what can be implemented within constraints
 
